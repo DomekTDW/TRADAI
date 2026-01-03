@@ -1,22 +1,12 @@
 {
   "name": "@tradai/api",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "tsx watch src/server.ts",
-    "build": "tsc -p tsconfig.json",
-    "lint": "echo \"(add eslint)\""
-  },
-  "dependencies": {
-    "@tradai/domain": "workspace:*",
-    "fastify": "^5.0.0",
-    "@fastify/cors": "^9.0.0",
-    "@fastify/rate-limit": "^10.0.0",
-    "dotenv": "^16.4.5"
-  },
-  "devDependencies": {
-    "tsx": "^4.19.1",
-    "typescript": "^5.6.3"
+    "dev": "echo \"TODO: start api\"",
+    "build": "echo \"TODO: build api\"",
+    "test": "echo \"TODO: test api\"",
+    "lint": "echo \"TODO: lint api\""
   }
 }
